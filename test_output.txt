@@ -1,0 +1,24 @@
+NETCARD successfully installed
+TCPIP successfully installed
+TELNET successfully installed
+foo successfully installed
+NETCARD is still needed
+HTML successfully installed
+BROWSER successfully installed
+DNS successfully installed
+TCPIP, TELNET, foo, BROWSER, HTML, NETCARD, DNS
+TELNET successfully removed
+TCPIP is no longer needed
+TCPIP successfully removed
+NETCARD is no longer needed
+NETCARD successfully removed
+NETCARD is not installed
+DNS successfully removed
+NETCARD is not installed
+NETCARD successfully installed
+TCPIP is not installed
+BROWSER successfully removed
+HTML is no longer needed
+HTML successfully removed
+TCPIP is not installed
+foo, NETCARD
